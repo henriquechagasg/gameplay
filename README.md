@@ -1,8 +1,11 @@
 # GamePlay
 
 ✅ Typescript
+<br />
 ✅ React Native
+<br />
 ✅ Expo
+<br />
 ✅ DRY Principles
 
 # About
